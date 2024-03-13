@@ -1,3 +1,6 @@
+![pic1](https://github.com/NavaSasson/Currencies-Table-Chess-Board-Multiplication-Table/blob/main/pictures/pic1.png)
+
+![pic2](https://github.com/NavaSasson/Currencies-Table-Chess-Board-Multiplication-Table/blob/main/pictures/pic2.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
